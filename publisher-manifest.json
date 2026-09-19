@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "5ca90d0f1ce52b6b4d149e3a",
+  "owner": "qhwchdra",
+  "repo": "page-e3448f3414d768a07a75101a",
+  "title": "Biteb",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e3448f3414d768a07a75101a",
+      "a": "Biteb",
+      "b": "clash verge服务商官网",
+      "entity": "Biteb",
+      "brand": "Biteb",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6756fcc3014d343c3dfaaece418c8c4f08fe64f95674ee63bfb1454858838446",
+      "content": {
+        "primary_entity": "Biteb",
+        "keyword1": "Biteb",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅方式，桌面端、移动端与路由器各有对应客户端。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "挑选适合你的流量档位与设备数量，按步骤完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐",
+          "AI_DESCRIPTION": "，Biteb 提供基础版、旗舰版与团队版三档方案。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量、支持 20 台设备，配备 VIP 专属高带宽节点与专属客户经理服务。选择订阅时可先对照日常流量与常用设备数量，再按客户端文档导入订阅。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，几个实际选择点。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度使用，旗舰版每月 300GB 兼顾日常与流媒体，团队版每月 1000GB 面向多设备大量使用。",
+          "AI_FEATURE_TITLE_1": "按流量档位",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。先核对常用手机、电脑与平板数量，再决定档位。",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TEXT_3": "月付适合短周期体验，年付方案为 ¥150、¥350、¥850，相当于按月均摊后支出更低。",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "从对比套餐到完成订阅，三步走。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "Biteb 品牌海外加速器提供基础版、旗舰版和团队版三档方案，覆盖从个人轻度使用到多设备团队协作的不同需求。挑选时先确认每月流量和同时在线设备数量，再按所用客户端完成订阅配置。",
+          "AI_HERO_SUBTITLE": "Biteb 品牌海外加速器套餐",
+          "AI_HIGHLIGHT_1": "三档月付方案 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付方案最高节省约四成",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。年付分别为 ¥150、¥350、¥850。流量与设备数量随档位递增，旗舰版含 IPLC 专线游戏加速，团队版含专属客户经理。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照基础版、旗舰版和团队版的价格、流量与设备数量，确认哪一档覆盖日常使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "查看设备与客户端的适配说明，确认当前系统支持的订阅导入方式与节点协议。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依据所用客户端自带的文档，将订阅链接导入并完成配置，随后检查连接状态。",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "Biteb 海外加速器套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，最多 3 台设备同时在线，适合轻量浏览与基础流媒体使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备，具备 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合多设备高频使用。",
+          "AI_FAQ_ANSWER_3": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付节省明显。",
+          "AI_FAQ_ANSWER_4": "团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由，方便多人协作场景。",
+          "AI_FAQ_ANSWER_5": "各套餐所需客户端不同，可根据设备类型查阅对应客户端文档，按说明导入订阅信息完成配置。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "三个套餐的年付价格分别是多少？",
+          "AI_FAQ_QUESTION_4": "团队版能支持多少人同时使用？",
+          "AI_FAQ_QUESTION_5": "订阅配置需要下载什么客户端？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e62ecad3d64d1938563e25050e684725b9bb4ae0935c8d7a7564778382266461",
+    "sitemap.xml": "963242f2c07728363015633fb31261c6b4a24cc5ae96ff9163998d5a55df431b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ef020f4bc80220adff2bcd83545b84e7de8cad89d7c3972aedb1ee6e4b8c1db7"
+}
